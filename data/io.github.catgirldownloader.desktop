@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Catgirl Downloader
+Comment=Fetch and download anime & catgirl artwork from multiple booru sources
+Exec=catgirl-downloader-gui
+Icon=catgirl-downloader
+Terminal=false
+Type=Application
+Categories=GTK;Network;Graphics;Utility;
+Keywords=Anime;Waifu;Catgirl;Downloader;Yande;Danbooru;
+StartupNotify=true
